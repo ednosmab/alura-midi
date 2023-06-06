@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto alura-midi.
 
-![Captura de tela de 2023-06-06 18-01-50](https://github.com/ednosmab/alura-midi/assets/37445442/9fe4793b-e4b8-44e2-b69d-355e1df24ca2)
+![Captura de tela de 2023-06-06 18-01-50](https://github.com/ednosmab/alura-midi/assets/37445442/b1562c38-448a-43bf-8add-27dbb4c5695e)
 
 
 ## Ferramentas utilizadas:
