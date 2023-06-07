@@ -25,4 +25,4 @@
 
 ## Acesse o link abaixo e clique nos botões para ouvir os efeitos sonoros!
 
-### Link para acessar o projeto no vercel.com: [inserir link]
+### Link para acessar o projeto no vercel.com: https://alura-midi-livid-mu.vercel.app/
